@@ -1,0 +1,18 @@
+body{
+	margin: 0 auto;
+	width: 600px;
+}
+
+
+h1{
+	text-align: center;
+}
+
+input{
+	width: 90px;
+	height: 90px;
+	font-size: 75px;
+	margin: 2px;
+	font-family: "Tahoma";
+	text-align: center;
+}
