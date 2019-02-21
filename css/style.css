@@ -3,7 +3,6 @@ body{
 	width: 600px;
 }
 
-
 h1{
 	text-align: center;
 }
@@ -11,8 +10,7 @@ h1{
 input{
 	width: 90px;
 	height: 90px;
-	font-size: 75px;
+	font-size: 100px;
 	margin: 2px;
 	font-family: "Tahoma";
-	text-align: center;
 }
